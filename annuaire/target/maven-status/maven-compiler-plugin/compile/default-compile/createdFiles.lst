@@ -1,0 +1,9 @@
+com/example/serveur/ServeurRMI.class
+com/example/serveur/Membre.class
+com/example/serveur/AnnuaireImpl.class
+com/example/App.class
+com/example/serveur/Etudiant.class
+com/example/client/ClientRMI.class
+com/example/database/DatabaseManager.class
+AnnuaireInterface.class
+com/example/serveur/Professeur.class

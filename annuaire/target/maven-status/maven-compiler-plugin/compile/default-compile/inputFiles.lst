@@ -1,0 +1,9 @@
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/App.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/client/ClientRMI.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/database/DatabaseManager.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/interface/AnnuaireInterface.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/serveur/AnnuaireImpl.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/serveur/Etudiant.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/serveur/Membre.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/serveur/Professeur.java
+/Users/isaackampanga/Desktop/Annuaire/annuaire/src/main/java/com/example/serveur/ServeurRMI.java
